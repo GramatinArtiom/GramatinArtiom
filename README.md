@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GramatinArtiom
-- 👀 I’m interested in SwiftUI  and python
-- 🌱 I’m currently learning SwiftUI
+- 👀 I’m interested in Swift and SwiftUI
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me instagram: artiom1_1
 
